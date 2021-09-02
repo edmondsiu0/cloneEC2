@@ -4,7 +4,7 @@ Python script that automates EC2 cloning process, optionally replaces source par
 ## Setup with Virtual Environment
 ```
 # clone the repository
-git https://github.com/edmondsiu0/cloneEC2.git
+git clone https://github.com/edmondsiu0/cloneEC2.git
 cd cloneEC2
 
 # enable virtual environment
