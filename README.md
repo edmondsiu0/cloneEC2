@@ -52,7 +52,7 @@ The following parameters can be overridden using this key=value pair method:
 # python3 cloneEC2.py eu-west-1 i-0123456789abcdef0 SubnetId=subnet-0123456789abcdef0
 ```
 
-#### To clone an EC2 instance like above, but place new in subnet-0123456789abcdef0, and change Instance Type to 't3.small':
+#### To clone an EC2 instance like above, but place new instance in subnet-0123456789abcdef0, and change Instance Type to 't3.small':
 ```
 # python3 cloneEC2.py eu-west-1 i-0123456789abcdef0 SubnetId=subnet-0123456789abcdef0 InstanceType=t3.small
 ```
